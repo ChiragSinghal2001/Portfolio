@@ -9,10 +9,7 @@ import {
   DiHtml5,
   DiGit,
 } from "react-icons/di";
-import {
-  SiNextdotjs,
-  SiPostgresql,
-} from "react-icons/si";
+import { SiNextdotjs, SiPostgresql } from "react-icons/si";
 import { MdCss } from "react-icons/md";
 
 function Techstack() {
@@ -43,13 +40,11 @@ function Techstack() {
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-      <DiHtml5 />
+        <DiHtml5 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-      <MdCss />
+        <MdCss />
       </Col>
-      
-      
     </Row>
   );
 }

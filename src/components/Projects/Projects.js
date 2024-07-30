@@ -17,8 +17,7 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatbuddy}
               isBlog={false}
@@ -37,7 +36,6 @@ function Projects() {
               demoLink="https://yourorder.netlify.app/"
             />
           </Col>
-          
         </Row>
       </Container>
     </Container>

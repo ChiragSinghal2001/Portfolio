@@ -10,8 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Chirag Singhal </span>
             from <span className="purple"> Uttar Pradesh, India.</span>
-            <br />
-            I am a recent graduate from <span className="purple">Aligarh Muslim University </span> with a degree in engineering
+            <br />I am a recent graduate from{" "}
+            <span className="purple">Aligarh Muslim University </span> with a
+            degree in engineering
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -28,7 +29,11 @@ function AboutCard() {
           <p style={{ color: "dodgerblue" }}>
             "The journey of thousand kilometers begins with a single step!"{" "}
           </p>
-          <footer style={{color: "#0059b3", marginTop:"-15px",fontWeight:"bold"}} >-Chirag </footer>
+          <footer
+            style={{ color: "#0059b3", marginTop: "-15px", fontWeight: "bold" }}
+          >
+            -Chirag{" "}
+          </footer>
         </blockquote>
       </Card.Body>
     </Card>

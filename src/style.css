@@ -1,5 +1,10 @@
 html {
-  --section-background-color: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  --section-background-color: linear-gradient(
+    to right,
+    #0f2027,
+    #203a43,
+    #2c5364
+  );
   /* linear-gradient(to right, #5433ff, #20bdff, #a5fecb); */
   /* linear-gradient(to right, #1488cc, #2b32b2); */
   /* linear-gradient(to right, #cc2b5e, #753a88); */
@@ -25,7 +30,7 @@ html {
 .purple {
   /* color: var(--imp-text-color) !important; */
   color: dodgerblue;
-    font-weight: bolder;
+  font-weight: bolder;
 }
 
 button:focus {
