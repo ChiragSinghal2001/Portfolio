@@ -20,6 +20,8 @@
     "react-router-dom": "^6.2.2",
     "react-scripts": "^5.0.1",
     "react-tsparticles": "^1.42.2",
+    "three": "^0.172.0",
+    "tsparticles": "^3.8.0",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
